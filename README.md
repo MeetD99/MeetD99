@@ -1,65 +1,27 @@
-<h1 align="left">Hey ✌️What's Up?</h1>
-
-###
-
-<p align="left">I'm Meet Dholakia, a passionate Designer & Developer, turning ideas into interactive and visually stunning web experiences.</p>
-
-###
-
 <div align="center">
-  <a href="https://linkedin.com/in/meetdholakia2074" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/519092662931030016" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="mailto:meetdholakia2074@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
+  <h3><code>meetd99@github ~ $ ./contributions.sh</code></h3>
+  <img src="./contrib-heatmap.svg" width="860" />
+
+  <br><br>
+
+  <h3><code>meetd99@github ~ $ whoami</code></h3>
+  <table>
+    <tr>
+      <td valign="top"><img src="./avi-ascii.svg" width="430" height="450" /></td>
+      <td valign="top"><img src="./stats.svg" width="430" height="450" /></td>
+    </tr>
+  </table>
+
+  <br>
+  <br>
+
+  <h3><code>meetd99@github ~ $ ./links.sh</code></h3>
+
+  <p><b>Developer · Designer · Learner</b></p>
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-meetdholakia.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://meetdholakia.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-MeetDholakia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meetdholakia2074)
+  [![Instagram](https://img.shields.io/badge/Instagram-meet_dholakia-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meet_dholakia)
+<br>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeetD99&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-</div>
-
-###
